@@ -1,0 +1,3 @@
+- "-D" is dev dependencies
+^ => caret is define minor version
+~ -> tild major version

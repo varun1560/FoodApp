@@ -1,0 +1,32 @@
+{
+  "name": "foodapp",
+  "version": "1.0.0",
+  "description": "Food app like twiggy",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varun1560/FoodApp.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Varun Bhujbal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varun1560/FoodApp/issues"
+  },
+  "homepage": "https://github.com/varun1560/FoodApp#readme",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserslist": [
+     "last 2 versions"
+  ]
+   
+}
