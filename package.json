@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "Food app like twiggy",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "repository": {
@@ -26,7 +28,6 @@
     "react-dom": "^19.1.0"
   },
   "browserslist": [
-     "last 2 versions"
+    "last 2 versions"
   ]
-   
 }

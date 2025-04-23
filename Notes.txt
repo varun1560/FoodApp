@@ -1,3 +1,10 @@
 - "-D" is dev dependencies
 ^ => caret is define minor version
 ~ -> tild major version
+
+when you give any attributes to jsx then it should be in camel case
+eg => tabIndex, className
+
+If you called component called inside other component then we can call it component composition
+
+JSX snitize data when we try to load any data from API
